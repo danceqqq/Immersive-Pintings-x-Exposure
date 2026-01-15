@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.immersivepaintings.exposure.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "immersivepaintings_exposure.refmap.json",
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
+
