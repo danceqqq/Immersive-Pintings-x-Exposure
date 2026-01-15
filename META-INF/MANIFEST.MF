@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: immersivepaintings-exposure
+Specification-Vendor: immersivepaintings-exposure
+Specification-Version: 1
+Implementation-Title: immersivepaintings-exposure
+Implementation-Version: 1.0.0
+Implementation-Vendor: immersivepaintings-exposure
+MixinConfigs: immersivepaintings_exposure.mixins.json
+
